@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1587718872 source:c:\users\volod\desktop\СИ проекты\publishing\book.cpp
+	"Book.h"
+	"Edition.h"
+
+1587688642 c:\users\volod\desktop\СИ проекты\publishing\book.h
+	<iostream>
+	<string>
+	"Edition.h"
+
+1587719378 source:c:\users\volod\desktop\СИ проекты\publishing\edition.cpp
+	"Edition.h"
+
+1587688642 c:\users\volod\desktop\СИ проекты\publishing\edition.h
+	<iostream>
+	<string>
+
+1587719331 source:c:\users\volod\desktop\СИ проекты\publishing\magazine.cpp
+	"Magazine.h"
+	"Edition.h"
+
+1587688642 c:\users\volod\desktop\СИ проекты\publishing\magazine.h
+	<iostream>
+	<string>
+	"Edition.h"
+
+1587719493 source:c:\users\volod\desktop\СИ проекты\publishing\main.cpp
+	<iostream>
+	<string>
+	"Edition.h"
+	"Magazine.h"
+	"Book.h"
+	"Newspaper.h"
+
+1587688642 c:\users\volod\desktop\СИ проекты\publishing\newspaper.h
+	<iostream>
+	<string>
+	"Edition.h"
+
+1587718951 source:c:\users\volod\desktop\СИ проекты\publishing\newspaper.cpp
+	"Newspaper.h"
+	"Edition.h"
+
